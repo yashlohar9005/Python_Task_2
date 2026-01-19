@@ -1,6 +1,6 @@
 Python Data Types & Type Casting Demo
 
-Author: Yash Sunil Lohar
+Author: Yash Lohar
 
 This project is a practical implementation of Python's fundamental data types. It demonstrates how to declare variables, perform arithmetic across different types, safely handle user input, and showcase Python's dynamic typing capabilities.
 ________________________________________
